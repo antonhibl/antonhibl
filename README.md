@@ -24,7 +24,7 @@
 <img alt="C++" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="128" height="128"></img>
 <img alt="Go" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" width="128" height="128"></img>
 <img alt="Python" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="128" height="128"></img>
-<img alt="Perl" src="https://vectorified.com/images/perl-icon-17.png" width="128" height="128"></img>
+<img alt="Perl" src="https://www.unixmen.com/wp-content/uploads/2013/07/perl_logo.jpg" width="128" height="128"></img>
 <img alt="EcmaScript" src="https://codereviewvideos.com/blog/wp-content/uploads/2016/04/es6-logo.png" width="128" height="128"></img>
 <img alt="HTML5" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width="128" height="128"></img>
 <img alt="CSS3" src="https://cdn-icons-png.flaticon.com/128/5968/5968201.png" width="128" height="128"></img>
