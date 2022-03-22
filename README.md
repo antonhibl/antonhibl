@@ -21,7 +21,7 @@
 
 ## Languages
 
-![C++](https://cdn-icons-png.flaticon.com/128/6132/6132222.png)
+![C++](https://cdn-icons-png.flaticon.com/128/6132/6132222.png) ![Python](https://cdn-icons-png.flaticon.com/128/5968/5968350.png) ![Go](https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png) ![Perl](https://vectorified.com/images/perl-icon-17.png) ![EcmaScript](https://codereviewvideos.com/blog/wp-content/uploads/2016/04/es6-logo.png) ![HTML5](https://cdn-icons-png.flaticon.com/128/5968/5968267.png) ![CSS3](https://cdn-icons-png.flaticon.com/128/5968/5968201.png) ![Julia](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/julia-icon.png) ![Bash](https://blog.toright.com/wp-content/uploads/2019/05/bash.png) ![SQL](http://www.databaseguides.com/wp-content/uploads/2009/06/postgresql-logo.png) ![Swift](https://cdn-icons-png.flaticon.com/128/5968/5968371.png) ![Rust](https://www.vippng.com/png/detail/33-331403_rust-programming-language-black-logo-rust-programming-logo.png) ![TypeScript](https://cdn-icons-png.flaticon.com/128/5968/5968381.png)
 
 ## Experience
 
