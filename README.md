@@ -3,7 +3,7 @@
 -----
 
 - 🔭 I’m currently working on finishing school projects, learning web and app design, and helping with security research.
-- 🌱 I’m currently learning https://img.shields.io/badge/<>-<TypeScript>-<blue>, Swift, GoLang, and Quantum Computing
+- 🌱 I’m currently learning [![TypeScript](https://img.shields.io/badge/-TypeScript-blue), Swift, GoLang, and Quantum Computing
 - 👯 I’m looking to collaborate on any open source software projects, bug bounties & security research, quantum computing projects and research.
 - 💬 Ask me about Web Design, CLI, Python, Go, Quantum Computing(Qiskit and Strawberry Fields), and Cybersecurity.
 - 📫 How to reach me: antonhibl11@gmail.com
