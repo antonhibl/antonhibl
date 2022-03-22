@@ -21,7 +21,7 @@
 
 ## Languages
 
-![C++](https://www.flaticon.com/free-icon/c_6132222?term=programming%20languages&page=1&position=12&page=1&position=12&related_id=6132222&origin=search)
+![C++](https://cdn-icons-png.flaticon.com/128/6132/6132222.png)
 
 ## Experience
 
