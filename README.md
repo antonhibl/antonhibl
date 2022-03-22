@@ -21,22 +21,22 @@
 
 ## Languages
 
-<img alt="C++" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="128" height="128"></img>
-<img alt="Go" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" width="128" height="128"></img>
-<img alt="Python" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="128" height="128"></img>
-<img alt="Perl" src="https://www.unixmen.com/wp-content/uploads/2013/07/perl_logo.jpg" width="128" height="128"></img>
-<img alt="EcmaScript" src="https://codereviewvideos.com/blog/wp-content/uploads/2016/04/es6-logo.png" width="128" height="128"></img>
-<img alt="HTML5" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width="128" height="128"></img>
-<img alt="CSS3" src="https://cdn-icons-png.flaticon.com/128/5968/5968201.png" width="128" height="128"></img>
-<img alt="Julia" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/julia-icon.png" width="128" height="128"></img>
-<img alt="Bash" src="https://blog.toright.com/wp-content/uploads/2019/05/bash.png" width="128" height="128"></img>
-<img alt="SQL" src="https://logonoid.com/images/postgresql-logo.png" width="128" height="128"></img>
-<img alt="Swift" src="https://cdn-icons-png.flaticon.com/128/5968/5968371.png" width="128" height="128"></img>
-<img alt="Rust" src="https://www.vippng.com/png/detail/33-331403_rust-programming-language-black-logo-rust-programming-logo.png" width="128" height="128"></img>
-<img alt="TypeScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="128" height="128"></img>
-<img alt="WebAssembly" src="https://webassembly.github.io/spec/core/_static/webassembly.png" width="128" height="128"></img>
-<img alt="Lua" src="https://duckduckgo.com/i/074bab0a.png" width="128" height="128"></img>
-<img alt="C" src="https://duckduckgo.com/i/a5b1dab3.png" height="128" width="128"></img>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="128" height="128"></img></a>
+<a href="https://go.dev/"><img alt="Go" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" width="128" height="128"></img></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="128" height="128"></img></a>
+<a href="https://www.perl.org/"><img alt="Perl" src="https://www.unixmen.com/wp-content/uploads/2013/07/perl_logo.jpg" width="128" height="128"></img></a>
+<a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img alt="EcmaScript" src="https://codereviewvideos.com/blog/wp-content/uploads/2016/04/es6-logo.png" width="128" height="128"></img></a>
+<a href="https://en.wikipedia.org/wiki/HTML5"><img alt="HTML5" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width="128" height="128"></img></a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS3" src="https://cdn-icons-png.flaticon.com/128/5968/5968201.png" width="128" height="128"></img></a>
+<a href="https://julialang.org/"><img alt="Julia" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/julia-icon.png" width="128" height="128"></img></a>
+<a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://blog.toright.com/wp-content/uploads/2019/05/bash.png" width="128" height="128"></img></a>
+<a href="https://www.postgresql.org/"><img alt="SQL" src="https://logonoid.com/images/postgresql-logo.png" width="128" height="128"></img></a>
+<a href="https://www.swift.org/"><img alt="Swift" src="https://cdn-icons-png.flaticon.com/128/5968/5968371.png" width="128" height="128"></img></a>
+<a href="https://www.rust-lang.org/"><img alt="Rust" src="https://www.vippng.com/png/detail/33-331403_rust-programming-language-black-logo-rust-programming-logo.png" width="128" height="128"></img></a>
+<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="128" height="128"></img></a>
+<a href="https://webassembly.org/"><img alt="WebAssembly" src="https://webassembly.github.io/spec/core/_static/webassembly.png" width="128" height="128"></img></a>
+<a href="https://www.lua.org/"><img alt="Lua" src="https://duckduckgo.com/i/074bab0a.png" width="128" height="128"></img></a>
+<a href="https://www.iso.org/standard/74528.html"><img alt="C" src="https://duckduckgo.com/i/a5b1dab3.png" height="128" width="128"></img></a>
 
 
 ## Experience
