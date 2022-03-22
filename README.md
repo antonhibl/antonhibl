@@ -35,7 +35,7 @@
 <img alt="Rust" src="https://www.vippng.com/png/detail/33-331403_rust-programming-language-black-logo-rust-programming-logo.png" width="128" height="128"></img>
 <img alt="TypeScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="128" height="128"></img>
 <img alt="WebAssembly" src="https://webassembly.github.io/spec/core/_static/webassembly.png" width="128" height="128"></img>
-<img alt="Lua" src="https://www.shareicon.net/data/2016/06/18/603669_lua_512x512.png" width="128" height="128"></img>
+<img alt="Lua" src="https://duckduckgo.com/i/074bab0a.png" width="128" height="128"></img>
 <img alt="C" src="https://i7.pngguru.com/preview/724/306/377/c-programming-language-icon-letter-c-png.jpg" height="128" width="128"></img>
 
 
