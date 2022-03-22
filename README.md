@@ -1,12 +1,12 @@
-### Hi, I'm Anton 👋
+### Hi, I'm Anton <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 -----
 
 - 📖 I'm currently finishing my **Bachelor's Degrees in CyberSecurity and Chemistry** at *Northern Arizona University*
-- 🔭 I’m currently learning web programming and app design, studying quantum computing and chemistry, and helping with security research.
-- 💻 I’m currently playing around with: ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Swift](https://img.shields.io/badge/-Swift-orange) ![Rust](https://img.shields.io/badge/-Rust-red)
+- 🔭 I’m staying busy learning web programming and app design, studying quantum computing and chemistry, and helping with security research.
+- 💻 I have been programming with ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Swift](https://img.shields.io/badge/-Swift-orange) ![Rust](https://img.shields.io/badge/-Rust-red) ![Python](https://img.shields.io/badge/-Python-darkgreen) ![Go](https://img.shields.io/badge/-Go-9cf) ![C++](https://img.shields.io/badge/-C%2B%2B-blueviolet)
 - 👥 I’m looking to collaborate on as many open source software projects as I can, bug bounties & security research, and quantum computing research.
-- 💬 Ask me about Web Design, CLI, Python, Go, Quantum Computing(Qiskit and Strawberry Fields), and Cybersecurity.
+- 💬 Ask me about Web Design, Shell Scripting, Programming Styles, Design Patterns, Quantum Computing, and Cybersecurity.
 - 📫 How to reach me: antonhibl11@gmail.com
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=antonhibl&theme=dracula&hide_border=true)
@@ -43,8 +43,9 @@
 - 👨‍💻 Worked as a **Student IT Classroom Support Technician** at *NAU ITS*
 - 🧪 **Member of the Lindberg Research Group and Lab Team** @ *Northern Arizona University*
 - ⚡️ **President of NAU Quantum**, a student led organization to promote education and collaboration in the field of quantum computing.
-- 📜 Languages I have experience with are: ![Python](https://img.shields.io/badge/-Python-darkgreen) ![Go](https://img.shields.io/badge/-Go-9cf) ![C++](https://img.shields.io/badge/-C%2B%2B-blueviolet) ![Perl](https://img.shields.io/badge/-Perl-yellow) ![Julia](https://img.shields.io/badge/-Julia-violet) ![Bash/Zsh](https://img.shields.io/badge/-Bash%2FZsh-slategray) ![SQL(Postgresql)](https://img.shields.io/badge/-SQL-informational) ![JavaScript](https://img.shields.io/badge/-JavaScript-coral) ![Swift](https://img.shields.io/badge/-Swift-orange) ![Rust](https://img.shields.io/badge/-Rust-red)
 
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/anton-hibl-88a92a214"><img alt="my LinkedIn" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1647980753~hmac=c2ae512fe0a9788e129b2bdab0be762b"></img></a>
+<a href="https://www.instagram.com/antonxhibl/"><img alt="my Instagram" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"></img></a>
+
