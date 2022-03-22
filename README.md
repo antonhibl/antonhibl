@@ -36,7 +36,7 @@
 <img alt="TypeScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="128" height="128"></img>
 <img alt="WebAssembly" src="https://webassembly.github.io/spec/core/_static/webassembly.png" width="128" height="128"></img>
 <img alt="Lua" src="https://duckduckgo.com/i/074bab0a.png" width="128" height="128"></img>
-<img alt="C" src="https://i7.pngguru.com/preview/724/306/377/c-programming-language-icon-letter-c-png.jpg" height="128" width="128"></img>
+<img alt="C" src="https://duckduckgo.com/i/a5b1dab3.png" height="128" width="128"></img>
 
 
 ## Experience
