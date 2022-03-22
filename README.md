@@ -47,5 +47,6 @@
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/anton-hibl-88a92a214"><img alt="my LinkedIn" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1647980753~hmac=c2ae512fe0a9788e129b2bdab0be762b"></img></a>
+<a href="https://medium.com/@antonadventurer14"><img alt="My Medium Page" src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png"></img></a>
 <a href="https://www.instagram.com/antonxhibl/"><img alt="my Instagram" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"></img></a>
 
