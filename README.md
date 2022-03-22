@@ -46,7 +46,7 @@
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/anton-hibl-88a92a214"><img alt="my LinkedIn" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png"></img></a>
-<a href="https://medium.com/@antonadventurer14"><img alt="My Medium Page" src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png"></img></a>
-<a href="https://www.instagram.com/antonxhibl/"><img alt="my Instagram" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"></img></a>
+<a href="https://www.linkedin.com/in/anton-hibl-88a92a214"><img alt="my LinkedIn" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="128" height="128"></img></a>
+<a href="https://medium.com/@antonadventurer14"><img alt="My Medium Page" src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png" width="128" height="128"></img></a>
+<a href="https://www.instagram.com/antonxhibl/"><img alt="my Instagram" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" width="128" height="128"></img></a>
 
