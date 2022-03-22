@@ -2,12 +2,14 @@
 
 -----
 
-- 🔭 I’m currently working on finishing school projects, learning web and app design, and helping with security research.
-- 🌱 I’m currently learning [![TypeScript](https://img.shields.io/badge/-TypeScript-blue), Swift, GoLang, and Quantum Computing
-- 👯 I’m looking to collaborate on any open source software projects, bug bounties & security research, quantum computing projects and research.
+- 📖 I'm currently finishing my **Bachelor's Degrees in CyberSecurity and Chemistry** at *Northern Arizona University*
+- 🔭 I’m currently learning web programming and app design, studying quantum computing and chemistry, and helping with security research.
+- 💻 I’m currently programming with: ![TypeScript](https://img.shields.io/badge/-TypeScript-blue), ![Swift](https://img.shields.io/badge/-Swift-orange), ![Rust](https://img.shields.io/badge/-Rust-red), ![Python](https://img.shields.io/badge/-Python-darkgreen),and ![Go](https://img.shields.io/badge/-Go-9cf)
+- 👥 I’m looking to collaborate on as many open source software projects as I can, bug bounties & security research, and quantum computing research.
 - 💬 Ask me about Web Design, CLI, Python, Go, Quantum Computing(Qiskit and Strawberry Fields), and Cybersecurity.
 - 📫 How to reach me: antonhibl11@gmail.com
-- ⚡ Fun fact: I love synthesizers and audio-programming interfaces,  check out [Sonic Pi](https://github.com/sonic-pi-net/sonic-pi) to try it out too
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=antonhibl&theme=dracula&hide_border=true)
 
 ## Stats📈 
 
