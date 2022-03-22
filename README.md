@@ -30,7 +30,7 @@
 <img alt="CSS3" src="https://cdn-icons-png.flaticon.com/128/5968/5968201.png" width="128" height="128"></img>
 <img alt="Julia" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/julia-icon.png" width="128" height="128"></img>
 <img alt="Bash" src="https://blog.toright.com/wp-content/uploads/2019/05/bash.png" width="128" height="128"></img>
-<img alt="SQL" src="http://www.databaseguides.com/wp-content/uploads/2009/06/postgresql-logo.pn" width="128" height="128"></img>
+<img alt="SQL" src="https://logonoid.com/images/postgresql-logo.png" width="128" height="128"></img>
 <img alt="Swift" src="https://cdn-icons-png.flaticon.com/128/5968/5968371.png" width="128" height="128"></img>
 <img alt="Rust" src="https://www.vippng.com/png/detail/33-331403_rust-programming-language-black-logo-rust-programming-logo.png" width="128" height="128"></img>
 <img alt="TypeScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="128" height="128"></img>
@@ -47,3 +47,4 @@
 
 ## Connect with me
 
+<a href="https://www.linkedin.com/in/anton-hibl-88a92a214"><img alt="my LinkedIn" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1647980753~hmac=c2ae512fe0a9788e129b2bdab0be762b"></img></a>
