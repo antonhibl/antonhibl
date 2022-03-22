@@ -4,7 +4,7 @@
 
 - 📖 I'm currently finishing my **Bachelor's Degrees in CyberSecurity and Chemistry** at *Northern Arizona University*
 - 🔭 I’m currently learning web programming and app design, studying quantum computing and chemistry, and helping with security research.
-- 💻 I’m currently programming with: ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Swift](https://img.shields.io/badge/-Swift-orange) ![Rust](https://img.shields.io/badge/-Rust-red)
+- 💻 I’m currently playing around with: ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Swift](https://img.shields.io/badge/-Swift-orange) ![Rust](https://img.shields.io/badge/-Rust-red)
 - 👥 I’m looking to collaborate on as many open source software projects as I can, bug bounties & security research, and quantum computing research.
 - 💬 Ask me about Web Design, CLI, Python, Go, Quantum Computing(Qiskit and Strawberry Fields), and Cybersecurity.
 - 📫 How to reach me: antonhibl11@gmail.com
@@ -18,6 +18,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=antonhibl&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="antonhibl" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=antonhibl&theme=highcontrast&hide_border=true" alt="antonhibl" /> 
 </p>
+
+## Languages
+
+![C++](https://www.flaticon.com/free-icon/c_6132222?term=programming%20languages&page=1&position=12&page=1&position=12&related_id=6132222&origin=search)
 
 ## Experience
 
