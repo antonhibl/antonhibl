@@ -9,7 +9,7 @@
 - 💬 Ask me about Web Design, Shell Scripting, Programming Styles, Design Patterns, Quantum Computing, and Cybersecurity.
 - 📫 How to reach me: antonhibl11@gmail.com
 
-<!--![Anton's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=antonhibl)-->
+![Anton's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=antonhibl)
 ## Stats📈 
 
 <p align="center"> 
