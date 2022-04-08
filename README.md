@@ -40,8 +40,8 @@
 
 ## Experience
 
-- 🦠 Worked as a **Student Software Research Engineer** at *the Caporaso Lab @ NAU's Pathogen & Microbiome Institute*
-- 👨‍💻 Worked as a **Student IT Classroom Support Technician** at *NAU ITS*
+- 🦠 Worked as a **Software Research Engineer** at *the Caporaso Lab @ NAU's Pathogen & Microbiome Institute*
+- 👨‍💻 Worked as a **IT Classroom Support Technician** at *NAU ITS*
 - 🧪 **Member of the Lindberg Research Group and Lab Team** @ *Northern Arizona University*
 - ⚡️ **President of NAU Quantum**, a student led organization to promote education and collaboration in the field of quantum computing.
 
