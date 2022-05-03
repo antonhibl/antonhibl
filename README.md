@@ -5,8 +5,8 @@
 - 📖 I'm currently finishing my **Bachelor's Degrees in CyberSecurity and Chemistry** at *Northern Arizona University*
 - 🔭 I’m staying busy learning web programming and app design, studying quantum computing and chemistry, and helping with security research.
 - 💻 I have been programming with ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Swift](https://img.shields.io/badge/-Swift-orange) ![Rust](https://img.shields.io/badge/-Rust-red) ![Python](https://img.shields.io/badge/-Python-darkgreen) ![Go](https://img.shields.io/badge/-Go-9cf) ![C++](https://img.shields.io/badge/-C%2B%2B-blueviolet)
-- 👥 I’m looking to collaborate on as many open source software projects as I can, bug bounties & security research, and quantum computing research.
-- 💬 Ask me about Web Design, Shell Scripting, Programming Styles, Design Patterns, Quantum Computing, and Cybersecurity.
+- 👥 I’m looking to collaborate on as many open source software projects as I can, as well as bug bounties & security research.
+- 💬 Ask me about Web Design, Shell Scripting, Quantum Computing, and Cybersecurity.
 - 📫 How to reach me: antonhibl11@gmail.com
 
 ![Anton's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=antonhibl&theme=rogue)
