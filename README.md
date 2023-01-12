@@ -11,13 +11,11 @@
 
 [![Anton's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonhibl&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeFama&&show_icons=true&theme=dark
-
 <p align="center"> 
   <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=antonhibl&user=antonhibl&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="antonhibl" />  
   <img width="48%" src="https://github-readme-stats-git-masterstaa-rickstaa.vercel.app/api?username=antonhibl&user=antonhibl&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="antonhibl" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=antonhibl&theme=dracula" alt="antonhibl" /> 
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=antonhibl&theme=dracula)](https://git.io/streak-stats)
 
 ## Languages
 
