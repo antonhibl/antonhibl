@@ -9,8 +9,7 @@
 - 💬 Ask me about Web Design, Shell Scripting, Quantum Computing, and Cybersecurity.
 - 📫 How to reach me: antonhibl11@gmail.com
 
-![Anton's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=antonhibl&theme=rogue)
-## Stats📈 
+[![Anton's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonhibl)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"> 
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonhibl&user=antonhibl&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="antonhibl" />  
