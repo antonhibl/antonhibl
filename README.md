@@ -9,11 +9,11 @@
 - 💬 Ask me about Web Design, Shell Scripting, Quantum Computing, and Cybersecurity.
 - 📫 How to reach me: antonhibl11@gmail.com
 
-[![Anton's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonhibl&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anton's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonhibl&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"> 
   
-  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=antonhibl&&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="antonhibl" />  
+  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=antonhibl&&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="antonhibl" />  
   <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=antonhibl&theme=dracula" alt="antonhibl" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=antonhibl&theme=dracula" alt-"Anton's GitHub Streak" /> 
 </p>
