@@ -11,8 +11,9 @@
 
 [![Anton's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonhibl&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonhibl)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center"> 
-  [![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonhibl)](https://github.com/anuraghazra/github-readme-stats)
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonhibl&user=antonhibl&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="antonhibl" />  
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=antonhibl&user=antonhibl&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="antonhibl" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=antonhibl&theme=highcontrast&hide_border=true" alt="antonhibl" /> 
