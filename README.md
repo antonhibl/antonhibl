@@ -5,9 +5,9 @@
 - 📖 I'm currently finishing my **Bachelor's Degrees in CyberSecurity and Chemistry** at *Northern Arizona University*
 - 🚀 I currently work as a Software Engineer for the USGS Astrogeology Science Center in Flagstaff, Arizona
 - 🔭 I’m staying busy learning web programming and app design, studying quantum computing and chemistry, and helping with security research.
-- 💻 I have been programming with ![Haskell](https://img.shields.io/badge/-Haskell-blueviolet) ![Lisp](https://img.shields.io/badge/-Lisp-yellow) ![Swift](https://img.shields.io/badge/-Swift-ff69b4) ![Rust](https://img.shields.io/badge/-Rust-orange) ![Python](https://img.shields.io/badge/-Python-green) ![Go](https://img.shields.io/badge/-Go-9cf) ![C++](https://img.shields.io/badge/-C%2B%2B-blue)
-- 👥 I’m looking to collaborate on as many open source software projects as I can, as well as bug bounties & security research.
-- 💬 Ask me about Web Design, Shell Scripting, Quantum Computing, and Cybersecurity.
+- 💻 I have been programming with:  ![Haskell](https://img.shields.io/badge/-Haskell-blueviolet) ![Lisp](https://img.shields.io/badge/-Lisp-yellow) ![Swift](https://img.shields.io/badge/-Swift-ff69b4) ![Rust](https://img.shields.io/badge/-Rust-orange) ![Python](https://img.shields.io/badge/-Python-green) ![Go](https://img.shields.io/badge/-Go-9cf) ![C++](https://img.shields.io/badge/-C%2B%2B-blue)
+- 👥 I’m looking to collaborate on open source security research projects or bug bounties.
+- 💬 Ask me about Cyber Security, Quantum Computing, or 
 - 📫 How to reach me: antonhibl11@gmail.com
 
 [![Anton's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonhibl&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
