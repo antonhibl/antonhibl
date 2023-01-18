@@ -29,6 +29,7 @@
 <a alt="CSS3" href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS3" src="https://cdn-icons-png.flaticon.com/128/5968/5968201.png" width="64" height="64"></img></a>
 <a alt="Julia" href="https://julialang.org/"><img alt="Julia" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/julia-icon.png" width="64" height="64"></img></a>
 <a alt="Bash" href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://blog.toright.com/wp-content/uploads/2019/05/bash.png" width="64" height="64"></img></a>
+<br>
 <a alt="PostgreSQL" href="https://www.postgresql.org/"><img alt="SQL" src="https://logonoid.com/images/postgresql-logo.png" width="64" height="64"></img></a>
 <a alt="Swift" href="https://www.swift.org/"><img alt="Swift" src="https://cdn-icons-png.flaticon.com/128/5968/5968371.png" width="64" height="64"></img></a>
 <a alt="Rust" href="https://www.rust-lang.org/"><img alt="Rust" src="https://www.vippng.com/png/detail/33-331403_rust-programming-language-black-logo-rust-programming-logo.png" width="64" height="64"></img></a>
