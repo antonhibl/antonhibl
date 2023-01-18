@@ -2,7 +2,7 @@
 
 -----
 
-- 📖 I amm honing my craft at Northern Arizona University, where I am completing my Bachelor's Degrees in CyberSecurity and Chemistry.
+- 📖 I am honing my craft at Northern Arizona University, where I am completing my Bachelor's Degrees in CyberSecurity and Chemistry.
 - 🚀 I currently work as a Software Engineer for the USGS Astrogeology Science Center in Flagstaff, Arizona
 - 🔭 I'm currently studying malware analysis, software design patterns, and functional programming paradigms.
 - 💻 My toolset includes various programming languages, such as ![Haskell](https://img.shields.io/badge/-Haskell-blueviolet) ![Lisp](https://img.shields.io/badge/-Lisp-yellow) ![Swift](https://img.shields.io/badge/-Swift-ff69b4) ![Rust](https://img.shields.io/badge/-Rust-orange) ![Python](https://img.shields.io/badge/-Python-green) ![Go](https://img.shields.io/badge/-Go-9cf) ![C++](https://img.shields.io/badge/-C%2B%2B-blue)
