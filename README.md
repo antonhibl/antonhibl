@@ -9,7 +9,7 @@
 - 👥 I'm always looking for new opportunities to collaborate on open source security research or bug bounties.
 - 📫 If you're interested in Cyber Security, Quantum Computing, or Penetration Testing, drop me a line at antonhibl11@gmail.com - I'm always open to a chat!
 
-[![Anton's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonhibl&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antonhibl&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"> 
   
