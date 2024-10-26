@@ -2,12 +2,10 @@
 
 -----
 
-- 📖 I am honing my craft at Northern Arizona University, where I am completing my Bachelor's Degree in CyberSecurity.
-- 🚀 I currently work as a Software Engineer for the USGS Astrogeology Science Center in Flagstaff, Arizona
-- 🔭 I'm currently studying malware analysis, software design patterns, and functional programming paradigms.
-- 💻 My toolset includes various programming languages, such as ![Haskell](https://img.shields.io/badge/-Haskell-blueviolet) ![Lisp](https://img.shields.io/badge/-Lisp-yellow) ![Swift](https://img.shields.io/badge/-Swift-ff69b4) ![Rust](https://img.shields.io/badge/-Rust-orange) ![Python](https://img.shields.io/badge/-Python-green) ![Go](https://img.shields.io/badge/-Go-9cf) ![C++](https://img.shields.io/badge/-C%2B%2B-blue)
-- 👥 I'm always looking for new opportunities to collaborate on open source security research or bug bounties.
-- 📫 If you're interested in Cyber Security, Quantum Computing, or Penetration Testing, drop me a line at antonhibl11@gmail.com - I'm always open to a chat!
+- 📇 I have a Bachelors Degree in Cybersecurity from Northern Arizona University
+- 🔭 I'm currently practicing malware analysis, network sniffing, and CTFs.
+- 💻 My toolset includes several programming languages, such as ![Haskell](https://img.shields.io/badge/-Haskell-blueviolet) ![Lisp](https://img.shields.io/badge/-Lisp-yellow) ![Swift](https://img.shields.io/badge/-Swift-ff69b4) ![Rust](https://img.shields.io/badge/-Rust-orange) ![Python](https://img.shields.io/badge/-Python-green) ![Go](https://img.shields.io/badge/-Go-9cf) ![C++](https://img.shields.io/badge/-C%2B%2B-blue)
+- 👥 I'm always looking for new opportunities to collaborate on open source security research or bug bounties, contact me at antonhibl11@gmail.com
 
 <!-- [![Anton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antonhibl&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
@@ -39,16 +37,6 @@
 <a alt="C" href="https://www.iso.org/standard/74528.html"><img alt="C" src="https://duckduckgo.com/i/a5b1dab3.png" height="64" width="64"></img></a>
 <a alt="Haskell" href="https://www.haskell.org/"><img alt="Haskell" src="https://cdn-icons-png.flaticon.com/512/919/919850.png" width="64" height="64"></img></a>
 <a alt="Lisp" href="https://lisp-lang.org/"><img alt="Lisp" src="https://lisp-lang.org/assets/img/logo/transparent.png" width="64" height="64"></img></a>
-
-
-## Experience
-
-- 🦠 Worked as a **Software Research Engineer** at *the Caporaso Lab @ NAU's Pathogen & Microbiome Institute*
-- 👨‍💻 Worked as a **IT Classroom Support Technician** at *NAU ITS*
-- 🧪 **Member of the Lindberg Research Group and Lab Team** @ *Northern Arizona University*
-- ⚡️ **President of NAU Quantum**, a student led organization to promote education and collaboration in the field of quantum computing.
-
-## Connect with me
 
 <a href="https://www.linkedin.com/in/anton-hibl-88a92a214"><img alt="my LinkedIn" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="128" height="128"></img></a>
 <a href="https://medium.com/@antonadventurer14"><img alt="My Medium Page" src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png" width="128" height="128"></img></a>
