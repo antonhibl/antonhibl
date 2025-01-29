@@ -13,7 +13,6 @@
   
   <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=antonhibl&&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="antonhibl" />  
   <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=antonhibl&theme=dracula" alt="antonhibl" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=antonhibl&theme=dracula" alt-"Anton's GitHub Streak" /> 
 </p>
 
 ## Languages
