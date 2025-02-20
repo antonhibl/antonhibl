@@ -18,24 +18,20 @@
 ## Languages
 
 <a alt="C++" href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="64" height="64"></img></a>
-<a alt="Go" href="https://go.dev/"><img alt="Go" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" width="64" height="64"></img></a>
 <a alt="Python" href="https://www.python.org/"><img alt="Python" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="64" height="64"></img></a>
 <a alt="Perl" href="https://www.perl.org/"><img alt="Perl" src="https://www.unixmen.com/wp-content/uploads/2013/07/perl_logo.jpg" width="64" height="64"></img></a>
-<a alt="EcmaScript6" href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img alt="EcmaScript" src="https://codereviewvideos.com/blog/wp-content/uploads/2016/04/es6-logo.png" width="64" height="64"></img></a>
 <a alt="HTML5" href="https://en.wikipedia.org/wiki/HTML5"><img alt="HTML5" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width="64" height="64"></img></a>
 <a alt="CSS3" href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS3" src="https://cdn-icons-png.flaticon.com/128/5968/5968201.png" width="64" height="64"></img></a>
 <a alt="Julia" href="https://julialang.org/"><img alt="Julia" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/julia-icon.png" width="64" height="64"></img></a>
-<a alt="Bash" href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://blog.toright.com/wp-content/uploads/2019/05/bash.png" width="64" height="64"></img></a>
+<a alt="Lisp" href="https://lisp-lang.org/"><img alt="Lisp" src="https://lisp-lang.org/assets/img/logo/transparent.png" width="64" height="64"></img></a>
 <br>
 <a alt="PostgreSQL" href="https://www.postgresql.org/"><img alt="SQL" src="https://logonoid.com/images/postgresql-logo.png" width="64" height="64"></img></a>
 <a alt="Swift" href="https://www.swift.org/"><img alt="Swift" src="https://cdn-icons-png.flaticon.com/128/5968/5968371.png" width="64" height="64"></img></a>
-<a alt="Rust" href="https://www.rust-lang.org/"><img alt="Rust" src="https://www.vippng.com/png/detail/33-331403_rust-programming-language-black-logo-rust-programming-logo.png" width="64" height="64"></img></a>
 <a alt="TypeScript" href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="64" height="64"></img></a>
 <a alt="WebAssembly" href="https://webassembly.org/"><img alt="WebAssembly" src="https://webassembly.github.io/spec/core/_static/webassembly.png" width="64" height="64"></img></a>
 <a alt="Lua" href="https://www.lua.org/"><img alt="Lua" src="https://duckduckgo.com/i/074bab0a.png" width="64" height="64"></img></a>
 <a alt="C" href="https://www.iso.org/standard/74528.html"><img alt="C" src="https://duckduckgo.com/i/a5b1dab3.png" height="64" width="64"></img></a>
 <a alt="Haskell" href="https://www.haskell.org/"><img alt="Haskell" src="https://cdn-icons-png.flaticon.com/512/919/919850.png" width="64" height="64"></img></a>
-<a alt="Lisp" href="https://lisp-lang.org/"><img alt="Lisp" src="https://lisp-lang.org/assets/img/logo/transparent.png" width="64" height="64"></img></a>
 
 <a href="https://www.linkedin.com/in/anton-hibl-88a92a214"><img alt="my LinkedIn" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="128" height="128"></img></a>
 <a href="https://medium.com/@antonadventurer14"><img alt="My Medium Page" src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png" width="128" height="128"></img></a>
