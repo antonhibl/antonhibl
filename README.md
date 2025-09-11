@@ -11,8 +11,9 @@
 
 <p align="center"> 
   
-  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=antonhibl&&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="antonhibl" />  
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=antonhibl&theme=dracula" alt="antonhibl" /> 
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonhibl&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="antonhibl" />  
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=antonhibl&theme=dracula&hide_border=true" alt="antonhibl" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=antonhibl&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="antonhibl" /> 
 </p>
 
 ## Languages
