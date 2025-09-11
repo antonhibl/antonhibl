@@ -3,7 +3,7 @@
 -----
 
 - 📇 I have a Bachelors Degree in Cybersecurity from Northern Arizona University
-- 🔭 I'm currently practicing malware analysis, network sniffing, and CTFs.
+- 🔭 I'm currently working as a cyber warfare specialist with the Utah Air National Guard.
 - 💻 My toolset includes several programming languages: ![Haskell](https://img.shields.io/badge/-Haskell-blueviolet) ![Lisp](https://img.shields.io/badge/-Lisp-yellow) ![Swift](https://img.shields.io/badge/-Swift-ff69b4) ![Rust](https://img.shields.io/badge/-Rust-orange) ![Python](https://img.shields.io/badge/-Python-green) ![Go](https://img.shields.io/badge/-Go-9cf) ![C++](https://img.shields.io/badge/-C%2B%2B-blue)
 - 👥 I'm always looking for new opportunities to collaborate on open source security research or bug bounties, contact me at antonhibl11@gmail.com
 
@@ -34,6 +34,5 @@
 <a alt="Haskell" href="https://www.haskell.org/"><img alt="Haskell" src="https://cdn-icons-png.flaticon.com/512/919/919850.png" width="64" height="64"></img></a>
 
 <a href="https://www.linkedin.com/in/anton-hibl-88a92a214"><img alt="my LinkedIn" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="128" height="128"></img></a>
-<a href="https://medium.com/@antonadventurer14"><img alt="My Medium Page" src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png" width="128" height="128"></img></a>
 <a href="https://www.instagram.com/antonxhibl/"><img alt="my Instagram" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" width="128" height="128"></img></a>
 
