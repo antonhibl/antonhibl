@@ -3,7 +3,7 @@
 -----
 
 - 📇 I have a Bachelors Degree in Cybersecurity from Northern Arizona University
-- 🔭 I'm currently working as a cyber warfare specialist with the Utah Air National Guard.
+- ⚔️ I'm currently working as a Cyber Warfare Specialist with the Utah Air National Guard.
 - 💻 My toolset includes several programming languages: ![Haskell](https://img.shields.io/badge/-Haskell-blueviolet) ![Lisp](https://img.shields.io/badge/-Lisp-yellow) ![Swift](https://img.shields.io/badge/-Swift-ff69b4) ![Rust](https://img.shields.io/badge/-Rust-orange) ![Python](https://img.shields.io/badge/-Python-green) ![Go](https://img.shields.io/badge/-Go-9cf) ![C++](https://img.shields.io/badge/-C%2B%2B-blue)
 - 👥 I'm always looking for new opportunities to collaborate on open source security research or bug bounties, contact me at antonhibl11@gmail.com
 
