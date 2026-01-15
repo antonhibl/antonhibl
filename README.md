@@ -32,6 +32,6 @@
 <a alt="C" href="https://www.iso.org/standard/74528.html"><img alt="C" src="https://duckduckgo.com/i/a5b1dab3.png" height="64" width="64"></img></a>
 <a alt="Haskell" href="https://www.haskell.org/"><img alt="Haskell" src="https://cdn-icons-png.flaticon.com/512/919/919850.png" width="64" height="64"></img></a>
 
-<a href="https://www.linkedin.com/in/anton-hibl-88a92a214"><img alt="my LinkedIn" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="128" height="128"></img></a>
+<br>
 <a href="https://www.instagram.com/antonxhibl/"><img alt="my Instagram" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" width="128" height="128"></img></a>
 
