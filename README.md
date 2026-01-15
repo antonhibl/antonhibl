@@ -4,7 +4,6 @@
 
 - 📇 BS in Cybersecurity from Northern Arizona University
 - ⚔️ I'm currently working as a Cyber Warfare Specialist with the Utah Air National Guard & as a Penetration Tester for Dark Wolf Solutions.
-- 💻 My skillset includes several programming languages: ![Haskell](https://img.shields.io/badge/-Haskell-blueviolet) ![Lisp](https://img.shields.io/badge/-Lisp-yellow) ![Swift](https://img.shields.io/badge/-Swift-ff69b4) ![Rust](https://img.shields.io/badge/-Rust-orange) ![Python](https://img.shields.io/badge/-Python-green) ![Go](https://img.shields.io/badge/-Go-9cf) ![C++](https://img.shields.io/badge/-C%2B%2B-blue) ![Java](https://img.shields.io/badge/-Java-crimson) ![ECMAScript](https://img.shields.io/badge/-ECMAScript-lavender)
 - 👥 I'm always looking for new opportunities to collaborate on open source security research or bug bounties, contact me at antonhibl11@gmail.com
 
 [![Anton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antonhibl&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
