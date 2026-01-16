@@ -7,7 +7,7 @@
 - 👥 I'm always looking for new opportunities to collaborate on open source security research or bug bounties, contact me at antonhibl11@gmail.com
 
 [![Anton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antonhibl&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonhibl)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img style="height: 200px;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonhibl&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="antonhibl" />  
   <img style="height: 200px;" src="https://github-readme-stats-eight-theta.vercel.app/?user=antonhibl" alt="antonhibl" />
